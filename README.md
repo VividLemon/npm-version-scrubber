@@ -24,3 +24,5 @@ export default {
     },
 } satisfies Projects
 ```
+
+Then `bun run start`
